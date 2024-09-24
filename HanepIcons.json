@@ -1,0 +1,14 @@
+{
+    "name": "HanepIcons",
+    "icons": [
+        {
+            "name": "BattleNet.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BattleNet.png"
+        },
+        {
+            "name": "GenshinImpact.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/GenshinImpact.png"
+        }
+    ],
+    "description": "description"
+}
