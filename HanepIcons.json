@@ -8,6 +8,14 @@
         {
             "name": "GenshinImpact.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/GenshinImpact.png"
+        },
+        {
+            "name": "HearthStone.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HearthStone.png"
+        },
+        {
+            "name": "HSBC.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC.png"
         }
     ],
     "description": "description"
