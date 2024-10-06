@@ -6,6 +6,10 @@
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BattleNet.png"
         },
         {
+            "name": "CICC.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/CICC.png"
+        },
+        {
             "name": "GenshinImpact.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/GenshinImpact.png"
         },
@@ -14,8 +18,36 @@
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HearthStone.png"
         },
         {
+            "name": "HSBC-icon.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC-icon.png"
+        },
+        {
             "name": "HSBC.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC.png"
+        },
+        {
+            "name": "Japan.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Japan.png"
+        },
+        {
+            "name": "Mastercard.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Mastercard.png"
+        },
+        {
+            "name": "red.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/red.png"
+        },
+        {
+            "name": "Spotify.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Spotify.png"
+        },
+        {
+            "name": "Suica.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Suica.png"
+        },
+        {
+            "name": "Youtube.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Youtube.png"
         }
     ],
     "description": "description"
