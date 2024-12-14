@@ -2,12 +2,32 @@
     "name": "HanepIcons",
     "icons": [
         {
+            "name": "ANAPay.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ANAPay.png"
+        },
+        {
+            "name": "Apple.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Apple.png"
+        },
+        {
             "name": "BattleNet.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BattleNet.png"
         },
         {
+            "name": "BOC.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BOC.png"
+        },
+        {
+            "name": "BOCHK.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BOCHK.png"
+        },
+        {
             "name": "CICC.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/CICC.png"
+        },
+        {
+            "name": "CICCWM.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/CICCWM.png"
         },
         {
             "name": "GenshinImpact.png",
@@ -24,6 +44,10 @@
         {
             "name": "HSBC.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC.png"
+        },
+        {
+            "name": "IBKR.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/IBKR.png"
         },
         {
             "name": "Japan.png",
