@@ -30,6 +30,14 @@
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/CICCWM.png"
         },
         {
+            "name": "ClaudeAI-1.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ClaudeAI-1.png"
+        },
+        {
+            "name": "ClaudeAI-2.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ClaudeAI-2.png"
+        },
+        {
             "name": "GenshinImpact.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/GenshinImpact.png"
         },
@@ -46,6 +54,10 @@
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC.png"
         },
         {
+            "name": "HuggingFace.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HuggingFace.png"
+        },
+        {
             "name": "IBKR.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/IBKR.png"
         },
@@ -58,12 +70,24 @@
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Mastercard.png"
         },
         {
+            "name": "OpenAI.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/OpenAI.png"
+        },
+        {
+            "name": "PikPak.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/PikPak.png"
+        },
+        {
             "name": "red.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/red.png"
         },
         {
             "name": "Spotify.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Spotify.png"
+        },
+        {
+            "name": "Steam.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Steam.png"
         },
         {
             "name": "Suica.png",
