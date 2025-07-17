@@ -24,8 +24,10 @@ def generate_icons_json(icons_dir, output_file, base_url, json_name="HanepIcons"
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
+from config_manager import ConfigManager as c
+
 if __name__ == "__main__":
-    ICONS_DIRECTORY = "D:/Workspace/git-repos/icon-library/Icons"
-    OUTPUT_JSON = "D:/Workspace/git-repos/icon-library/HanepIcons.json"
+    ICONS_DIRECTORY = c.ws() / "git-repo/icon-library/Icons"
+    OUTPUT_JSON = c.ws() / "git-repo/icon-library/HanepIcons.json"
     BASE_URL = "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons"
     generate_icons_json(ICONS_DIRECTORY, OUTPUT_JSON, BASE_URL)
