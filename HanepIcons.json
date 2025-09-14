@@ -2,60 +2,32 @@
     "name": "HanepIcons",
     "icons": [
         {
-            "name": "Spotify.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Spotify.png"
+            "name": "ANAPay.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ANAPay.png"
         },
         {
-            "name": "IBKR.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/IBKR.png"
+            "name": "Apex.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Apex.png"
         },
         {
-            "name": "ClaudeAI-2.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ClaudeAI-2.png"
-        },
-        {
-            "name": "ClaudeAI-1.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ClaudeAI-1.png"
-        },
-        {
-            "name": "BOC.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BOC.png"
-        },
-        {
-            "name": "Suica.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Suica.png"
-        },
-        {
-            "name": "GenshinImpact.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/GenshinImpact.png"
-        },
-        {
-            "name": "Python.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Python.png"
-        },
-        {
-            "name": "OpenAI.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/OpenAI.png"
+            "name": "Apple.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Apple.png"
         },
         {
             "name": "BattleNet.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BattleNet.png"
         },
         {
-            "name": "HuggingFace.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HuggingFace.png"
+            "name": "BOC.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BOC.png"
         },
         {
-            "name": "HSBC-icon.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC-icon.png"
+            "name": "BOCHK.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BOCHK.png"
         },
         {
-            "name": "Steam.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Steam.png"
-        },
-        {
-            "name": "HearthStone.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HearthStone.png"
+            "name": "ChinaTelecom.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ChinaTelecom.png"
         },
         {
             "name": "CICC.png",
@@ -66,48 +38,80 @@
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/CICCWM.png"
         },
         {
-            "name": "Apple.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Apple.png"
+            "name": "ClaudeAI-1.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ClaudeAI-1.png"
         },
         {
-            "name": "BOCHK.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/BOCHK.png"
+            "name": "ClaudeAI-2.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ClaudeAI-2.png"
         },
         {
-            "name": "ANAPay.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ANAPay.png"
+            "name": "GenshinImpact.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/GenshinImpact.png"
         },
         {
-            "name": "PikPak.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/PikPak.png"
+            "name": "HearthStone.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HearthStone.png"
         },
         {
-            "name": "ChinaTelecom.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/ChinaTelecom.png"
-        },
-        {
-            "name": "Youtube.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Youtube.png"
+            "name": "HSBC-icon.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC-icon.png"
         },
         {
             "name": "HSBC.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HSBC.png"
         },
         {
-            "name": "Mastercard.png",
-            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Mastercard.png"
+            "name": "HuggingFace.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/HuggingFace.png"
+        },
+        {
+            "name": "IBKR.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/IBKR.png"
         },
         {
             "name": "Japan.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Japan.png"
         },
         {
+            "name": "Mastercard.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Mastercard.png"
+        },
+        {
+            "name": "OpenAI.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/OpenAI.png"
+        },
+        {
+            "name": "PikPak.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/PikPak.png"
+        },
+        {
+            "name": "Python.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Python.png"
+        },
+        {
             "name": "red.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/red.png"
         },
         {
+            "name": "Spotify.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Spotify.png"
+        },
+        {
+            "name": "Steam.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Steam.png"
+        },
+        {
+            "name": "Suica.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Suica.png"
+        },
+        {
             "name": "Wise.png",
             "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Wise.png"
+        },
+        {
+            "name": "Youtube.png",
+            "url": "https://raw.githubusercontent.com/hanepudding/icon-library/master/Icons/Youtube.png"
         }
     ],
     "description": "description"
